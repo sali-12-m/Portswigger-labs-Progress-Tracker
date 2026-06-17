@@ -1,6 +1,6 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-5-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--17-yellow) ![Level](https://img.shields.io/badge/Level-Practitioner-blue)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-5-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--18-yellow) ![Level](https://img.shields.io/badge/Level-Practitioner-blue)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below).
 
@@ -37,5 +37,5 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 1  | 2026-06-17 | SQL injection | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Apprentice | N/A |
 | 2  | 2026-06-17 | SQL injection | SQL injection vulnerability allowing login bypass | Apprentice | N/A |
 | 3  | 2026-06-17 | SQL injection | SQL injection UNION attack, determining the number of columns returned by the query | Practitioner | N/A |
-| 4  | 2026-06-17 | SQL injection | SQL injection UNION attack, finding a column containing text | Practitioner | N/A |
-| 5  | 2026-06-17 | SQL injection | SQL injection UNION attack, retrieving data from other tables | Practitioner | N/A |
+| 4  | 2026-06-18 | SQL injection | SQL injection UNION attack, finding a column containing text | Practitioner | N/A |
+| 5  | 2026-06-18 | SQL injection | SQL injection UNION attack, retrieving data from other tables | Practitioner | N/A |
