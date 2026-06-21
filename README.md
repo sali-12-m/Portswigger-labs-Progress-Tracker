@@ -1,18 +1,18 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-8-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--21-yellow) ![Level](https://img.shields.io/badge/Level-Practitioner-orange)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-9-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--21-yellow) ![Level](https://img.shields.io/badge/Level-Practitioner-orange)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below).
 
 ## Level progress
 - **Apprentice**: 2 of 61
-- **Practitioner**: 6 of 174
+- **Practitioner**: 7 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 1/14 lab
-- **SQL injection**: 8/18 lab
+- **SQL injection**: 9/18 lab
 - **Access control**: 0/13 lab
 
 ## Notes
@@ -42,3 +42,4 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 6  | 2026-06-18 | SQL injection | SQL injection UNION attack, retrieving multiple values in a single column | Practitioner | N/A |
 | 7  | 2026-06-21 | SQL injection | SQL injection with filter bypass via XML encoding | Practitioner | N/A |
 | 8  | 2026-06-21 | SQL injection | Blind SQL injection with time delays | Practitioner | N/A |
+| 9  | 2026-06-21 | SQL injection | Visible error-based SQL injection | Practitioner | N/A |
