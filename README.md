@@ -5,13 +5,13 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below).
 
 ## Level progress
-- **Apprentice**: 4 of 61
-- **Practitioner**: 7 of 174
+- **Apprentice**: 5 of 61
+- **Practitioner**: 15 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
-- **Authentication vulnerabilities**: 1/14 lab
+- **Authentication vulnerabilities**: 11/14 lab
 - **SQL injection**: 9/18 lab
 - **Access control**: 0/13 lab
 
@@ -44,4 +44,13 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 8  | 2026-06-21 | SQL injection | Blind SQL injection with time delays | Practitioner | N/A |
 | 9  | 2026-06-21 | SQL injection | Visible error-based SQL injection | Practitioner | N/A |
 | 10 | 2026-06-24 | Authentication vulnerabilities | Lab: Username enumeration via different responses | APPRENTICE | N/A |
-| 10 | 2026-06-24 | Authentication vulnerability | lab: 2FA simple bypass | APPRENTICE | N/A |
+| 11 | 2026-06-24 | Authentication vulnerability | lab: 2FA simple bypass | APPRENTICE | N/A |
+| 12 | 2026-06-24 | Authentication vulnerability | lab: Username enumeration via subtly different responses | Practitioner | N/A |
+| 13 | 2026-06-26 | Authentication vulnerability | lab: Username enumeration via response timing | Practitioner | N/A |
+| 14 | 2026-06-26 | Authentication vulnerability | lab: Broken brute-force protection, IP block | Practitioner | N/A |
+| 15 | 2026-06-26 | Authentication vulnerability | lab: Username enumeration via account lock | Practitioner | N/A |
+| 16 | 2026-06-27 | Authentication vulnerability | lab: 2FA broken logic | Practitioner | N/A |
+| 17 | 2026-06-27 | Authentication vulnerability | lab: Brute-forcing a stay-logged-in cookie | Practitioner | N/A |
+| 18 | 2026-06-27 | Authentication vulnerability | lab: Offline password cracking | Practitioner | N/A |
+| 19 | 2026-06-28 | Authentication vulnerability | lab: Password reset poisoning via middleware | Practitioner | N/A |
+| 20 | 2026-06-28 | Authentication vulnerability | lab: Password reset broken logic | APPRENTICE | N/A |
