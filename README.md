@@ -1,12 +1,12 @@
 # PortSwigger Web Security Academy - Solved Labs
 
-![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-14-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--03-yellow) ![Level](https://img.shields.io/badge/Level-Apprentice%2FPractitioner-brightgreen)
+![Total Labs](https://img.shields.io/badge/Total%20Labs%20Solved-19-blue) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--03-yellow) ![Level](https://img.shields.io/badge/Level-Progress-green)
 
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below).
 
 ## Level progress
-- **Apprentice**: 6 of 61
-- **Practitioner**: 19 of 174
+- **Apprentice**: 7 of 61
+- **Practitioner**: 24 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
@@ -15,6 +15,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **SQL injection**: 9/18 lab
 - **Access control**: 0/13 lab
 - **Path traversal**: 5/5 lab
+- **OS command injection**: 5/9 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -61,3 +62,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 24 | 2026-07-01 | Path traversal | File path traversal, traversal sequences stripped with superfluous URL-decode | Practitioner | N/A |
 | 25 | 2026-07-01 | Path traversal | File path traversal, validation of start of path | Practitioner | N/A |
 | 26 | 2026-07-01 | Path traversal | File path traversal, validation of file extension with null byte bypass | Practitioner | N/A |
+| 27 | 2026-07-03 | OS command injection | OS command injection, simple case | Apprentice | N/A |
+| 28 | 2026-07-03 | OS command injection | Blind OS command injection with time delays | Practitioner | N/A |
+| 29 | 2026-07-03 | OS command injection | Blind OS command injection with output redirection | Practitioner | N/A |
+| 30 | 2026-07-03 | OS command injection | Blind OS command injection with out-of-band interaction | Practitioner | N/A |
+| 31 | 2026-07-03 | OS command injection | Blind OS command injection with out-of-band data exfiltration | Practitioner | N/A |
