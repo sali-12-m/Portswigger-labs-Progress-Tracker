@@ -5,17 +5,18 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below).
 
 ## Level progress
-- **Apprentice**: 7 of 61
-- **Practitioner**: 24 of 174
+- **Apprentice**: 18 of 61
+- **Practitioner**: 29 of 174
 - **Expert**: 0 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 11/14 lab
 - **SQL injection**: 9/18 lab
-- **Access control**: 0/13 lab
+- **Access control**: 13/13 lab
 - **Path traversal**: 6/6 lab
 - **OS command injection**: 5/5 lab
+- **File upload vulnerabilities**: 3/7
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -67,3 +68,22 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 29 | 2026-07-03 | OS command injection | Blind OS command injection with output redirection | Practitioner | N/A |
 | 30 | 2026-07-03 | OS command injection | Blind OS command injection with out-of-band interaction | Practitioner | N/A |
 | 31 | 2026-07-03 | OS command injection | Blind OS command injection with out-of-band data exfiltration | Practitioner | N/A |
+| 32 | 2026-07-20 | Access control vulnerabilities | Unprotected admin functionality | Apprentice | N/A |
+| 33 | 2026-07-20 | Access control vulnerabilities | Unprotected admin functionality with unpredictable URL | Apprentice | N/A |
+| 34 | 2026-07-20 | Access control vulnerabilities | User role controlled by request parameter | Apprentice | N/A |
+| 35 | 2026-07-20 | Access control vulnerabilities | User role can be modified in user profile | Apprentice | N/A |
+| 36 | 2026-07-20 | Access control vulnerabilities | URL-based access control can be circumvented | PRACTITIONER | N/A |
+| 37 | 2026-07-22 | Access control vulnerabilities | Method-based access control can be circumvented | PRACTITIONER | N/A |
+| 38 | 2026-07-22 | Access control vulnerabilities | User ID controlled by request parameter  | APPRENTICE | N/A |
+| 39 | 2026-07-22 | Access control vulnerabilities | User ID controlled by request parameter, with unpredictable user IDs   | APPRENTICE | N/A |
+| 40 | 2026-07-22 | Access control vulnerabilities | User ID controlled by request parameter with data leakage in redirect   | APPRENTICE | N/A |
+| 41 | 2026-07-22 | Access control vulnerabilities | User ID controlled by request parameter with password disclosure | APPRENTICE | N/A |
+| 42 | 2026-07-22 | Access control vulnerabilities | Insecure direct object references | APPRENTICE | N/A |
+| 43 | 2026-07-26 | Access control vulnerabilities | Multi-step process with no access control on one step | PRACTITIONER | N/A |
+| 44 | 2026-07-26 | Access control vulnerabilities | Referer-based access control | PRACTITIONER | N/A |
+| 45 | 2026-07-26 | File upload vulnerabilities | Remote code execution via web shell upload | APPRENTICE | N/A |
+| 46 | 2026-07-26 | File upload vulnerabilities | Web shell upload via Content-Type restriction bypass | APPRENTICE | N/A |
+| 47 | 2026-07-26 | File upload vulnerabilities | Web shell upload via path traversal | PRACTITIONER | N/A |
+
+
+
