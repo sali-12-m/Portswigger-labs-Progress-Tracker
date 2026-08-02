@@ -84,6 +84,22 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 45 | 2026-07-26 | File upload vulnerabilities | Remote code execution via web shell upload | APPRENTICE | N/A |
 | 46 | 2026-07-26 | File upload vulnerabilities | Web shell upload via Content-Type restriction bypass | APPRENTICE | N/A |
 | 47 | 2026-07-26 | File upload vulnerabilities | Web shell upload via path traversal | PRACTITIONER | N/A |
+| 48 | 2026-07-28 | File upload vulnerabilities | Web shell upload via extension blacklist bypass | PRACTITIONER | N/A |
+| 49 | 2026-07-28 | File upload vulnerabilities | Web shell upload via obfuscated file extension | PRACTITIONER | N/A |
+| 50 | 2026-07-30 | Race conditions | Limit overrun race conditions | APPRENTICE | N/A |
+| 51 | 2026-07-30 | Race conditions | Bypassing rate limits via race conditions | PRACTITIONER | N/A |
+| 52 | 2026-07-30 | Race conditions | Multi-endpoint race conditions | PRACTITIONER | N/A |
+| 53 | 2026-07-30 | Race conditions | Single-endpoint race conditions | PRACTITIONER | N/A |
+| 54 | 2026-07-30 | Server-side request forgery (SSRF) | Basic SSRF against the local server | APPRENTICE | N/A |
+| 55 | 2026-07-30 | Server-side request forgery (SSRF) | Basic SSRF against another back-end system | APPRENTICE | N/A |
+
+
+
+
+
+
+
+
 
 
 
