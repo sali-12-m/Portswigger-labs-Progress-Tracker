@@ -17,6 +17,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Path traversal**: 6/6 lab
 - **OS command injection**: 5/5 lab
 - **File upload vulnerabilities**: 3/7
+- **XML external entity (XXE) injection: 8/9
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -90,8 +91,19 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 51 | 2026-07-30 | Race conditions | Bypassing rate limits via race conditions | PRACTITIONER | N/A |
 | 52 | 2026-07-30 | Race conditions | Multi-endpoint race conditions | PRACTITIONER | N/A |
 | 53 | 2026-07-30 | Race conditions | Single-endpoint race conditions | PRACTITIONER | N/A |
-| 54 | 2026-07-30 | Server-side request forgery (SSRF) | Basic SSRF against the local server | APPRENTICE | N/A |
-| 55 | 2026-07-30 | Server-side request forgery (SSRF) | Basic SSRF against another back-end system | APPRENTICE | N/A |
+| 54 | 2026-08-15 | Server-side request forgery (SSRF) | Basic SSRF against the local server | APPRENTICE | N/A |
+| 55 | 2026-08-15 | Server-side request forgery (SSRF) | Basic SSRF against another back-end system | APPRENTICE | N/A |
+| 56 | 2026-08-15 | XML external entity (XXE) injection | Exploiting XXE using external entities to retrieve files | APPRENTICE | N/A |
+| 57 | 2026-08-15 | XML external entity (XXE) injection | Exploiting XXE to perform SSRF attacks | APPRENTICE | N/A |
+| 58 | 2026-08-15 | XML external entity (XXE) injection | Blind XXE with out-of-band interaction | PRACTITIONER | N/A |
+| 59 | 2026-08-16 | XML external entity (XXE) injection | Blind XXE with out-of-band interaction via XML parameter entities | PRACTITIONER | N/A |
+| 60 | 2026-08-16 | XML external entity (XXE) injection | Exploiting blind XXE to exfiltrate data using a malicious external DTD | PRACTITIONER | N/A |
+| 61 | 2026-08-16 | XML external entity (XXE) injection | Exploiting blind XXE to retrieve data via error messages | PRACTITIONER | N/A |
+| 62 | 2026-08-16 | XML external entity (XXE) injection | Exploiting XInclude to retrieve files | PRACTITIONER | N/A |
+| 63 | 2026-08-16 | XML external entity (XXE) injection | Exploiting XXE via image file upload | PRACTITIONER | N/A |
+
+
+
 
 
 
