@@ -101,6 +101,25 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 61 | 2026-08-16 | XML external entity (XXE) injection | Exploiting blind XXE to retrieve data via error messages | PRACTITIONER | N/A |
 | 62 | 2026-08-16 | XML external entity (XXE) injection | Exploiting XInclude to retrieve files | PRACTITIONER | N/A |
 | 63 | 2026-08-16 | XML external entity (XXE) injection | Exploiting XXE via image file upload | PRACTITIONER | N/A |
+| 64 | 2026-08-16 | XML external entity (XXE) injection | Exploiting XXE via image file upload | PRACTITIONER | N/A |
+| 65 | 2026-08-26 | Cross-site request forgery (CSRF) | CSRF vulnerability with no defenses | APPRENTICE | N/A |
+| 66 | 2026-08-26 | Cross-site request forgery (CSRF) | CSRF where token validation depends on request method | PRACTITIONER | N/A |
+| 67 | 2026-08-26 | Cross-site request forgery (CSRF) | CSRF where token validation depends on token being present | PRACTITIONER | N/A |
+| 68 | 2026-08-29 | Cross-site request forgery (CSRF) | CSRF where Referer validation depends on header being present | PRACTITIONER | N/A |
+| 69 | 2026-08-29 | Cross-site scripting | Reflected XSS into HTML context with nothing encoded | APPRENTICE | N/A |
+| 70 | 2026-08-29 | Cross-site scripting | Stored XSS into HTML context with nothing encoded | APPRENTICE | N/A |
+| 71 | 2026-08-29 | Cross-site scripting | DOM XSS in document.write sink using source location.search | APPRENTICE | N/A |
+| 72 | 2026-08-29 | Cross-site scripting | DOM XSS in innerHTML sink using source location.search | APPRENTICE | N/A |
+| 73 | 2026-08-29 | Cross-site scripting | Reflected XSS into attribute with angle brackets HTML-encoded | APPRENTICE | N/A |
+| 74 | 2026-08-30 | Cross-site scripting | Exploiting cross-site scripting to steal cookies | PRACTITIONER | N/A |
+| 75 | 2026-08-30 | Cross-site scripting | Exploiting cross-site scripting to capture passwords | PRACTITIONER | N/A |
+| 76 | 2026-08-30 | Cross-site scripting | Exploiting XSS to bypass CSRF defenses| PRACTITIONER | N/A |
+
+
+
+
+
+
 
 
 
