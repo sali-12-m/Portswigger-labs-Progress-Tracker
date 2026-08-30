@@ -110,7 +110,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 70 | 2026-08-29 | Cross-site scripting | Stored XSS into HTML context with nothing encoded | APPRENTICE | N/A |
 | 71 | 2026-08-29 | Cross-site scripting | DOM XSS in document.write sink using source location.search | APPRENTICE | N/A |
 | 72 | 2026-08-29 | Cross-site scripting | DOM XSS in innerHTML sink using source location.search | APPRENTICE | N/A |
-| 73 | 2026-08-29 | Cross-site scripting | Reflected XSS into attribute with angle brackets HTML-encoded | APPRENTICE | N/A |
+| 73 | 2026-08-30 | Cross-site scripting | Reflected XSS into attribute with angle brackets HTML-encoded | APPRENTICE | N/A |
 | 74 | 2026-08-30 | Cross-site scripting | Exploiting cross-site scripting to steal cookies | PRACTITIONER | N/A |
 | 75 | 2026-08-30 | Cross-site scripting | Exploiting cross-site scripting to capture passwords | PRACTITIONER | N/A |
 | 76 | 2026-08-30 | Cross-site scripting | Exploiting XSS to bypass CSRF defenses| PRACTITIONER | N/A |
