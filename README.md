@@ -114,6 +114,12 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 74 | 2026-08-30 | Cross-site scripting | Exploiting cross-site scripting to steal cookies | PRACTITIONER | N/A |
 | 75 | 2026-08-30 | Cross-site scripting | Exploiting cross-site scripting to capture passwords | PRACTITIONER | N/A |
 | 76 | 2026-08-30 | Cross-site scripting | Exploiting XSS to bypass CSRF defenses| PRACTITIONER | N/A |
+| 77 | 2026-09-03 | Server-side template injection | Basic server-side template injection | PRACTITIONER | N/A |
+| 78 | 2026-09-03 | Server-side template injection | Basic server-side template injection (code context) | PRACTITIONER | N/A |
+| 79 | 2026-09-03 | Server-side template injection | Server-side template injection using documentation | PRACTITIONER | N/A |
+| 80 | 2026-09-05 | Server-side template injection | Server-side template injection in an unknown language with a documented exploit | PRACTITIONER | N/A |
+| 81 | 2026-09-05 | Server-side template injection | Server-side template injection with information disclosure via user-supplied objects| PRACTITIONER | N/A |
+
 
 
 
