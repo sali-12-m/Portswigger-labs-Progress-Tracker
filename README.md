@@ -119,11 +119,20 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 79 | 2026-09-03 | Server-side template injection | Server-side template injection using documentation | PRACTITIONER | N/A |
 | 80 | 2026-09-05 | Server-side template injection | Server-side template injection in an unknown language with a documented exploit | PRACTITIONER | N/A |
 | 81 | 2026-09-05 | Server-side template injection | Server-side template injection with information disclosure via user-supplied objects| PRACTITIONER | N/A |
-
-
-
-
-
+| 82 | 2026-09-10 | HTTP request smuggling | HTTP request smuggling, confirming a CL.TE vulnerability via differential responses | PRACTITIONER | N/A |
+| 83 | 2026-09-10 | HTTP request smuggling | HTTP request smuggling, confirming a TE.CL vulnerability via differential responses | PRACTITIONER | N/A |
+| 84 | 2026-09-10 | HTTP request smuggling | Exploiting HTTP request smuggling to bypass front-end security controls, CL.TE vulnerability | PRACTITIONER | N/A |
+| 85 | 2026-09-11 | HTTP request smuggling | Exploiting HTTP request smuggling to bypass front-end security controls, TE.CL vulnerability | PRACTITIONER | N/A |
+| 86 | 2026-09-11 | HTTP request smuggling | Exploiting HTTP request smuggling to reveal front-end request rewriting | PRACTITIONER | N/A |
+| 87 | 2026-09-11 | HTTP request smuggling | Exploiting HTTP request smuggling to capture other users' requests | PRACTITIONER | N/A |
+| 88 | 2026-09-12 | HTTP request smuggling | Exploiting HTTP request smuggling to deliver reflected XSS | PRACTITIONER | N/A |
+| 89 | 2026-09-12 | HTTP request smuggling | HTTP request smuggling, basic CL.TE vulnerability | PRACTITIONER | N/A |
+| 90 | 2026-09-12 | HTTP request smuggling | HTTP request smuggling, basic TE.CL vulnerability | PRACTITIONER | N/A |
+| 91 | 2026-09-12 | HTTP request smuggling | HTTP request smuggling, obfuscating the TE header | PRACTITIONER | N/A |
+| 92 | 2026-09-13 | HTTP request smuggling | Response queue poisoning via H2.TE request smuggling | PRACTITIONER | N/A |
+| 93 | 2026-09-13 | HTTP request smuggling | H2.CL request smuggling | PRACTITIONER | N/A |
+| 94 | 2026-09-13 | HTTP request smuggling | HTTP/2 request smuggling via CRLF injection | PRACTITIONER | N/A |
+| 95 | 2026-09-13 | HTTP request smuggling | HTTP/2 request splitting via CRLF injection | PRACTITIONER | N/A |
 
 
 
